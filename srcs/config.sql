@@ -1,0 +1,3 @@
+CREATE DATABASE admin;
+GRANT ALL PRIVILEGES ON admin.* TO 'admin'@'localhost' IDENTIFIED BY  'admin';
+FLUSH PRIVILEGES;

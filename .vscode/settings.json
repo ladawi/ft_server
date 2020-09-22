@@ -1,0 +1,34 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Spirited Away",
+    "editor.tokenColorCustomizations" : {
+        "comments": "#05A805",
+        // "keywords": "#2A9FB6",
+        "numbers": "#B590FA",
+        // "strings": "#018B01",
+        // "types": "#B40312",
+        "functions": "#df4848"
+    },
+    "editor.fontWeight": "bold",
+    "window.zoomLevel": 0,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "42header.username": "ladawi",
+    "42header.email": "ladawi@student.42.fr",
+    "explorer.confirmDragAndDrop": false,
+    "editor.wrappingIndent": "indent",
+    "editor.wordWrapColumn": 80,
+    "bracket-pair-colorizer-2.colors": [
+        "white",
+        "#EF6363",
+    ],
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.rulers": [80],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#48ff0027"
+    }
+    
+}
